@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T00:38:21.301Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EFrKAfTuaf9S0Gwm14Tw" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T00:49:18.417Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yFcYFzbvOGbTbgO5C31r" version="24.5.4" type="github">
   <diagram name="Page-1" id="HN00uUDEXN11D5uPcu2R">
-    <mxGraphModel dx="908" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="891" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hcSo7-kyBs8buMVfgqqB-6" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.json_script;" vertex="1" parent="1">
-          <mxGeometry x="250" y="180" width="146.15" height="200" as="geometry" />
+        <mxCell id="hcSo7-kyBs8buMVfgqqB-7" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/buildings/Building_Cluster.svg;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="229.3" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
